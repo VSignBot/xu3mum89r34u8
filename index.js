@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["DX Exploiting Bot"];
+const statusMessages = ["Playing DX Exploiting Bot"];
 
 
 let currentIndex = 0;
