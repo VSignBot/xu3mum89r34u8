@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Dixoa Bypass LLC."];
+const statusMessages = ["DX Exploiting Bot"];
 
 
 let currentIndex = 0;
