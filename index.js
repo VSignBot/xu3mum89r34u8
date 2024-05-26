@@ -11,15 +11,15 @@ const client = new Client({
 const app = express();
 const port = 3000;
 app.get('/', (req, res) => {
-  res.send('BotGhost Removed!');
+  res.send('StatusChanged!');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to Robin NTW : http://localhost:${port}`);
-  console.log(`🔗 Powered By Robinayush`);
+  console.log(`🔗 Listening to DX Exploits : http://localhost:${port}`);
+  console.log(`🔗 Powered By DX Github Coding`);
 });
 
 
-const statusMessages = ["Playing DX Exploiting Bot"];
+const statusMessages = ["DX Exploiting Bot"];
 
 
 let currentIndex = 0;
